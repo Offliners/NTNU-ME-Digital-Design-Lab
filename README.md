@@ -20,10 +20,10 @@ NTNU ME Digital Design Lab (2020 Spring)
   * Lab4
     * Lab4_1
       * [GL_lab4.v](Week-4/Lab4_1/GL_lab4.v)
-      * [TestBench_lab4_1.v](Week-4/Lab4_1/TestBench_lab4_1.v)
     * Lab4-2
     * Lab4_3
     * Lab4_4
+    * Lab4_5
 
 ## Software
 Quartus ii 13.0
