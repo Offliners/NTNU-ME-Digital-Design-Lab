@@ -18,6 +18,9 @@ Quartus ii 13.0
 
 Download Link : https://fpgasoftware.intel.com/13.0/?edition=web&platform=windows&download_manager=dlm3
 
+## Hardware
+* DE0 Nano (Cyclone IV E) `Device nane : EP4CE22F17C6`
+
 ## Reference
 * Video
 
