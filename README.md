@@ -12,10 +12,16 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [Lab2_2](Week-2/Lab2/Lab2_2)
     * [Lab2_3_1](Week-2/Lab2/Lab2_3_1)
     * [Lab2_3_1](Week-2/Lab2/Lab2_3_1)
+### Week-3
   * Lab3
     * [UDP_function_F1.v](Week-3/UDP_function_F1.v)
     * [GL_function_F2.v](Week-3/GL_function_F2.v)
     * [Lab3.v](Week-3/Lab3.v)
+  * Lab4
+    * Lab4_1
+    * Lab4-2
+    * Lab4_3
+    * Lab4_4
 
 ## Software
 Quartus ii 13.0
