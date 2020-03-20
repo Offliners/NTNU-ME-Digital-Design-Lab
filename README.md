@@ -19,6 +19,7 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [Lab3.v](Week-3/Lab3.v)
   * Lab4
     * Lab4_1
+      * [GL_lab4.v](Week-4/Lab4-1/GL_lab4.v)
     * Lab4-2
     * Lab4_3
     * Lab4_4
