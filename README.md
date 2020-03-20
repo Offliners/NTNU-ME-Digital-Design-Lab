@@ -20,6 +20,7 @@ Download Link : https://fpgasoftware.intel.com/13.0/?edition=web&platform=window
 
 ## Hardware
 * DE0 Nano Cyclone IV E (Device nane : `EP4CE22F17C6`)
+
 |Core voltage|LEs|User I/Os|Memory Bits|Embedded multiplier 9-bit elemnet|PLL|Global Clocks|
 |-|-|-|-|-|-|-|
 |1.2V|22320|154|608256|112|4|20|
