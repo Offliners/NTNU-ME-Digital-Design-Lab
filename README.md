@@ -8,7 +8,8 @@ NTNU ME Digital Design Lab (2020 Spring)
 ### Week-2
   * Lab1 - Quartus Project Manual
   * Lab2
-    * [Lab2_1](Week-2/Lab2/Lab2_1)
+    * Lab2_1
+      * [GL_lab2.v](Week-2/Lab2_1/GL_lab2.v)
     * [Lab2_2](Week-2/Lab2/Lab2_2)
     * [Lab2_3_1](Week-2/Lab2/Lab2_3_1)
     * [Lab2_3_1](Week-2/Lab2/Lab2_3_1)
