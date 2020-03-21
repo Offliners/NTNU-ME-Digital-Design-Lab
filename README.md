@@ -10,9 +10,11 @@ NTNU ME Digital Design Lab (2020 Spring)
   * Lab2
     * Lab2_1
       * [GL_lab2.v](Week-2/Lab2_1/GL_lab2.v)
-    * [Lab2_2](Week-2/Lab2/Lab2_2)
-    * [Lab2_3_1](Week-2/Lab2/Lab2_3_1)
-    * [Lab2_3_1](Week-2/Lab2/Lab2_3_1)
+    * Lab2_2
+      * [DF_lab2.v](Week-2/Lab2_2/DF_lab2.v)
+    * Lab2_3
+      * [GL_lab2_3.v](Week-2/Lab2_3/GL_lab2_3.v)
+      * [DF_lab2_3.v](Week-2/Lab2_3/DF_lab2_3.v)
 ### Week-3
   * Lab3
     * [UDP_function_F1.v](Week-3/UDP_function_F1.v)
