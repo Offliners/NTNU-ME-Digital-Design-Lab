@@ -53,4 +53,3 @@ Download Link : https://fpgasoftware.intel.com/13.0/?edition=web&platform=window
 
     https://www.youtube.com/playlist?list=PLXxs-fSMcpYdYd6pjgs27nEJg3sf7srCY  
 
-* Textbook
