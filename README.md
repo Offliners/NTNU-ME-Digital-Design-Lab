@@ -17,9 +17,9 @@ NTNU ME Digital Design Lab (2020 Spring)
       * [DF_lab2_3.v](Week-2/Lab2_3/DF_lab2_3.v)
 ### Week-3
   * Lab3
-    * [UDP_function_F1.v](Week-3/UDP_function_F1.v)
-    * [GL_function_F2.v](Week-3/GL_function_F2.v)
-    * [Lab3.v](Week-3/Lab3.v)
+    * [UDP_function_F1.v](Week-3/Lab3/UDP_function_F1.v)
+    * [GL_function_F2.v](Week-3/Lab3/GL_function_F2.v)
+    * [Lab3.v](Week-3/Lab3/Lab3.v)
   * Lab4
     * Lab4_1
       * [GL_lab4.v](Week-3/Lab4_1/GL_lab4.v)
@@ -37,6 +37,8 @@ NTNU ME Digital Design Lab (2020 Spring)
       * [Lab4.v](Week-3/Lab4_5/Lab4.v)
       * [TestBench_lab4.v](Week-3/Lab4_5/TestBench_lab4.v)
 ### Week-4
+  * Lab5
+    * [GL_lab5.v](Week-4/Lab5/GL_lab5.v)
 ## Software
 Quartus ii 13.0
 
