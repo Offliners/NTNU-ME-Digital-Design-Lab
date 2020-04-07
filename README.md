@@ -47,6 +47,7 @@ NTNU ME Digital Design Lab (2020 Spring)
 ### Week-5
   * Lab6
     * [halfAdder.v](Week-5/halfAdder.v)
+    * [fullAdder.v](Week-5/fullAdder.v)
 ## Software
 Quartus ii 13.0
 
