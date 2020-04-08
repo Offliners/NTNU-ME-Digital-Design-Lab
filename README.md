@@ -53,7 +53,7 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [carryLookaheadGenerator.v](Week-5/carryLookaheadGenerator.v)
     * [carryLookaheadAdder_4_bit.v](Week-5/carryLookaheadAdder_4_bit.v)
     * [TestBench_CLA.v](Week-5/TestBench_CLA.v)
-    * [binartAdderSubtractor_4_bit.v](Week-5/binaryAdderSubstract_4_bit.v)
+    * [binaryAdderSubtractor_4_bit.v](Week-5/binaryAdderSubtract_4_bit.v)
     * [TestBench_BAS.v](Week-5/TestBench_BAS.v)
 ## Software
 Quartus ii 13.0
