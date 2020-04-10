@@ -62,6 +62,8 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [TestBench_GL_Dec.v](Week-6/TestBench_GL_Dec.v)
     * [BF_decoder_3_bit.v](Week-6/BF_decoder_3_bit.v)
     * [TestBench_BF_Dec.v](Week-6/TestBench_BF_Dec.v)
+    * [Decoder_4_bit.v](Week-6/Decoder_4_bit.v)
+    * [TestBench_decoder_4_bit.v](Week-6/TestBench_decoder_4_bit.v)
 ## Software
 Quartus ii 13.0
 
