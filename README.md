@@ -57,7 +57,7 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [TestBench_BAS.v](Week-5/TestBench_BAS.v)
     
 ### Week-6
-  * [Lab7]
+  * Lab7
     * [GL_decoder_3_bit.v](Week-6/GL_decoder_3_bit.v)
     * [TestBench_GL_Dec.v](Week-6/TestBench_GL_Dec.v)
 ## Software
