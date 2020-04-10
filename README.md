@@ -55,6 +55,10 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [TestBench_CLA.v](Week-5/TestBench_CLA.v)
     * [binaryAdderSubtractor_4_bit.v](Week-5/binaryAdderSubtractor_4_bit.v)
     * [TestBench_BAS.v](Week-5/TestBench_BAS.v)
+    
+### Week-6
+  * [Lab7]
+    * [GL_decoder_3_bit.v](Week-6/GL_decoder_3_bit.v)
 ## Software
 Quartus ii 13.0
 
