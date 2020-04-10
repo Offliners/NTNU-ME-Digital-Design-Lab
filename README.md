@@ -64,6 +64,9 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [TestBench_BF_Dec.v](Week-6/TestBench_BF_Dec.v)
     * [Decoder_4_bit.v](Week-6/Decoder_4_bit.v)
     * [TestBench_decoder_4_bit.v](Week-6/TestBench_decoder_4_bit.v)
+    * [Multiplexer_4_to_1.v](Week-6/Multiplexer_4_to_1.v)
+    * [Multiplexer_16_to_1.v](Week-6/Multiplexer_16_to_1.v)
+    * [TestBench_mul_16_to_1.v](Week-6/TestBench_mul_16_to_1.v)
 ## Software
 Quartus ii 13.0
 
