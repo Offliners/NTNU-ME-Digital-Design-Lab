@@ -69,6 +69,8 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [TestBench_mul_16_to_1.v](Week-6/TestBench_mul_16_to_1.v)
     * [Multiplexer_three_state_gate.v](Week-6/Multiplexer_three_state_gate.v)
     * [TestBench_mul_three_state_16_to_1.v](Week-6/TestBench_mul_three_state_16_to_1.v)
+    * [Multiplexer_BF_16_to_1.v](Week-6/Multiplexer_BF_16_to_1.v)
+    * [TestBench_mul_BF_16_to_1.v](Week-6/TestBench_mul_BF_16_to_1.v)
     
 ## Software
 Quartus ii 13.0
