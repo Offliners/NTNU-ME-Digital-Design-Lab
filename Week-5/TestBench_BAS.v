@@ -5,8 +5,8 @@ wire Cs, Cd, Vs, Vd;
 reg [4:0]A, B;
 reg signed [3:0]sA, sB;
 
-	binaryAdderSubtractor_4_bit BAS0(S, Cs, Vs, A[3:0], B[3:0], 1'b0),
-	                            BAS1(D, Cd, Vd, A[3:0], B[3:0], 1'b1);
+binaryAdderSubtractor_4_bit BAS0(S, Cs, Vs, A[3:0], B[3:0], 1'b0),
+                            BAS1(D, Cd, Vd, A[3:0], B[3:0], 1'b1);
 
 initial
 begin
