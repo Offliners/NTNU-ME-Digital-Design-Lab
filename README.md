@@ -72,7 +72,7 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [Multiplexer_BF_16_to_1.v](Week-6/Multiplexer_BF_16_to_1.v)
     * [TestBench_mul_BF_16_to_1.v](Week-6/TestBench_mul_BF_16_to_1.v)
 ### Week-7
-  * M 
+  * Mock Exam
 ### Week-8
 ### Week-9
   * MidExam
