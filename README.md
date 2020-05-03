@@ -72,10 +72,18 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [Multiplexer_BF_16_to_1.v](Week-6/Multiplexer_BF_16_to_1.v)
     * [TestBench_mul_BF_16_to_1.v](Week-6/TestBench_mul_BF_16_to_1.v)
 ### Week-7
-  * Mock Exam
+  * Mock Exam I
 ### Week-8
+  * Mock Exam II
 ### Week-9
   * MidExam
+    * Problem 1
+      * [half_adder.v](Week-9/Problem1/half_adder.v)
+      * [full_adder.v](Week-9/Problem1/full_adder.v)
+      * [ripple_carry_adder.v](Week-9/Problem1/ripple_carry_adder.v)
+      * [multiplier.v](Week-9/Problem1/multiplier.v)
+      * [TestBench_multiplier.v](Week-9/Problem1/TestBench_multiplier.v)
+    * Problem 2
 ## Software
 Quartus ii 13.0
 
