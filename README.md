@@ -84,6 +84,10 @@ NTNU ME Digital Design Lab (2020 Spring)
       * [multiplier.v](Week-9/Problem1/multiplier.v)
       * [TestBench_multiplier.v](Week-9/Problem1/TestBench_multiplier.v)
     * Problem 2
+      * [three_bits_decoder_enable.v](Week-9/Problem2/three_bits_decoder_enable.v)
+      * [four_bits_decoder_enable.v](Week-9/Problem2/four_bits_decoder_enable)
+      * [Bin2Gray.v](Week-9/Problem2/Bin2Gray.v)
+      * [TestBench_BtoG.v](Week-9/Problem2/TestBench_BtoG.v)
 ## Software
 Quartus ii 13.0
 
