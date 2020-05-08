@@ -91,6 +91,7 @@ NTNU ME Digital Design Lab (2020 Spring)
 ### Week-10
   * Lab 8
     * [Binary_to_7Seg.v](Week-10/Binary_to_7Seg.v)
+    * [TestBench_SEG.v](Week-10/TestBench_SEG.v)
 ## Software
 Quartus ii 13.0
 
