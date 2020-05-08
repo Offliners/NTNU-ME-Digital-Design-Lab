@@ -88,6 +88,9 @@ NTNU ME Digital Design Lab (2020 Spring)
       * [four_bits_decoder_enable.v](Week-9/Problem2/four_bits_decoder_enable.v)
       * [Bin2Gray.v](Week-9/Problem2/Bin2Gray.v)
       * [TestBench_BtoG.v](Week-9/Problem2/TestBench_BtoG.v)
+### Week-10
+  * Lab 8
+    * [Binary_to_7Seg.v](Week-10/Binary_to_7Seg.v)
 ## Software
 Quartus ii 13.0
 
