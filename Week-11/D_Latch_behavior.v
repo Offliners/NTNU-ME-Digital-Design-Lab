@@ -1,6 +1,6 @@
 module D_Latch_behavior(output reg Q, input D, En, rst);
 
-always @ (posedge En, negedge rst)
+always @ (D, En, rst)
 begin
 	if(!rst)
 		Q <= 1'b0;
