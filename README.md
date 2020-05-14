@@ -99,6 +99,7 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [D_Flip_Flop_behavior.v](Week-11/D_Flip_Flop_behavior.v)
     * [JK_Flip_Flop_GL.v](Week-11/JK_Flip_Flop_GL.v)
     * [JK_Flip_Flop_BF_Char_Table.v](Week-11/JK_Flip_Flop_BF_Char_Table.v)
+    * [T_Flip_Flop.v](Week-11/T_Flip_Flop.v)
 ## Software
 Quartus ii 13.0
 
