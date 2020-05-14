@@ -97,6 +97,7 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [D_Latch_basic_gate.v](Week-11/D_Latch_basic_gate.v)
     * [D_Latch_behavior.v](Week-11/D_Latch_behavior.v)
     * [D_Flip_Flop_behavior.v](Week-11/D_Flip_Flop_behavior.v)
+    * [JK_Flip_Flop_GL.v](Week-11/JK_Flip_Flop_GL.v)
 ## Software
 Quartus ii 13.0
 
