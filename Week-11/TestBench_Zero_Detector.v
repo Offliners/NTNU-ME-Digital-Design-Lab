@@ -15,7 +15,7 @@ end
 
 initial
 fork
-		  rst = 0;
+	     rst = 0;
 	#2   rst = 1;
 	#87  rst = 0;
 	#89  rst = 1;
