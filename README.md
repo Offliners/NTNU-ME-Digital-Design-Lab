@@ -92,7 +92,7 @@ NTNU ME Digital Design Lab (2020 Spring)
   * Lab 8
     * [Binary_to_7Seg.v](Week-10/Binary_to_7Seg.v)
     * [TestBench_SEG.v](Week-10/TestBench_SEG.v)
-### W-11
+### Week-11
   * Lab 9
     * [D_Latch_basic_gate.v](Week-11/D_Latch_basic_gate.v)
 ## Software
