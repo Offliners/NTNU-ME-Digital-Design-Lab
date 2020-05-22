@@ -103,13 +103,15 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [Zero_Detector.v](Week-11/Zero_Detector.v)
     * [TestBench_Zero_Detector.v](Week-11/TestBench_Zero_Detector.v)
 ### Week-12
-  * Lab10
+  * Lab 10
     * [two_bit_counter.v](Week-12/two_bit_counter.v)
     * [TestBench_counter.v](Week-12/TestBench_counter.v)
     * [JK_Flip_Flop_BF_Char_Table.v](Week-12/JK_Flip_Flop_BF_Char_Table.v)
     * [JK_two_counter.v](Week-12/JK_two_counter.v)
     * [TestBench_JK_counter.v](Week-12/TestBench_JK_counter.v)
     * [slowclock_5.v](Week-12/slowclock_5.v)
+    * [slowclock.v](Week-12/slowclock.v)
+    * [lab10.v](Week-12/lab10.v)
 ## Software
 Quartus ii 13.0
 
