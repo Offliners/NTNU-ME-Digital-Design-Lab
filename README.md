@@ -111,6 +111,7 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [TestBench_JK_counter.v](Week-12/TestBench_JK_counter.v)
     * [slowclock_5.v](Week-12/slowclock_5.v)
     * [slowclock.v](Week-12/slowclock.v)
+    * [binary_to_seg7.v](Week-12/binary_to_seg7.v)
     * [lab10.v](Week-12/lab10.v)
 ## Software
 Quartus ii 13.0
