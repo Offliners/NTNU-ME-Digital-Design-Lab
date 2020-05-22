@@ -102,6 +102,9 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [T_Flip_Flop.v](Week-11/T_Flip_Flop.v)
     * [Zero_Detector.v](Week-11/Zero_Detector.v)
     * [TestBench_Zero_Detector.v](Week-11/TestBench_Zero_Detector.v)
+### Week-12
+  * Lab10
+    * [two_bit_counter.v](Week-12/two_bit_counter.v)
 ## Software
 Quartus ii 13.0
 
