@@ -105,6 +105,7 @@ NTNU ME Digital Design Lab (2020 Spring)
 ### Week-12
   * Lab10
     * [two_bit_counter.v](Week-12/two_bit_counter.v)
+    * [TestBench_counter.v](Week-12/TestBench_counter.v)
 ## Software
 Quartus ii 13.0
 
