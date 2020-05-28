@@ -15,15 +15,15 @@ always @ (state)
 begin
 	case(state)
 		S0 : next_state <= S1;
-		S0 : next_state <= S2;
-		S0 : next_state <= S3;
-		S0 : next_state <= S4;
-		S0 : next_state <= S5;
-		S0 : next_state <= S6;
-		S0 : next_state <= S7;
-		S0 : next_state <= S8;
-		S0 : next_state <= S9;
-		S0 : next_state <= S0;
+		S1 : next_state <= S2;
+		S2 : next_state <= S3;
+		S3 : next_state <= S4;
+		S4 : next_state <= S5;
+		S5 : next_state <= S6;
+		S6 : next_state <= S7;
+		S7 : next_state <= S8;
+		S8 : next_state <= S9;
+		S9 : next_state <= S0;
 	endcase
 end
 	
@@ -36,5 +36,5 @@ begin
 end
 
 assign Y = state;
-	
+
 endmodule
