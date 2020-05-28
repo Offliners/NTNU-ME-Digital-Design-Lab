@@ -113,6 +113,15 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [slowclock.v](Week-12/slowclock.v)
     * [binary_to_seg7.v](Week-12/binary_to_seg7.v)
     * [lab10.v](Week-12/lab10.v)
+### Week-13
+  * Lab 11
+  
+### Week-14
+  * Lab 12
+### Week-15
+  * Review
+### Week-16
+  * FinalExam
 ## Software
 Quartus ii 13.0
 
