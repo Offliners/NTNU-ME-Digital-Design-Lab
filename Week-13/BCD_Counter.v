@@ -35,4 +35,6 @@ begin
 	endcase
 end
 
+assign Y = state;
+	
 endmodule
