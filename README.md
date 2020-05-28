@@ -116,6 +116,7 @@ NTNU ME Digital Design Lab (2020 Spring)
 ### Week-13
   * Lab 11
     * [BCD_Counter.v](Week-13/BCD_Counter.v)
+    * [FrequencyDivider.v](Week-13/FrequencyDivider.v)
 ### Week-14
   * Lab 12
 ### Week-15
