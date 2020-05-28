@@ -120,6 +120,7 @@ NTNU ME Digital Design Lab (2020 Spring)
     * [fourDigital.v](Week-13/fourDigital.v)
     * [sevenDecoder.v](Week-13/sevenDecoder.v)
     * [modulo_six.v](Week-13/modulo_six.v)
+    * [lab11.v](Week-13/lab11.v)
 ### Week-14
   * Lab 12
 ### Week-15
