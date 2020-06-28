@@ -1,34 +1,6 @@
 # NTNU ME Digital Design Lab
 NTNU ME Digital Design Lab (2020 Spring)
 
-```
-change_priority() {
-    if (no process is running) and (there exist runnable processes):
-        run the next process;
-    else if (some process is running) and (there exist other runnable proccess):
-        increase the priority of the next process;
-}
-
-SIGCHLD_signal_handler() {
-    wait for completed child process;
-    number of finished processes += 1;
-    pop one process from queue;
-    if (number of finished processes == number of processes):
-        exit();
-}
-
-FCFS() {
-    sort(comingProcess);
-    change SIGCHLD from block to receive;
-    while unfinished tasks exist:
-        change_priority();	
-        for all (processes that are ready at this moment t):
-            create process (fork and execute);
-            push the next ready process into queue;
-            change_priority();
-        run a unit of time;
-}
-```
 ## Schedule
 ### Week-1
   * #### Introduction
